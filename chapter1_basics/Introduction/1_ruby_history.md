@@ -1,4 +1,4 @@
-### What's ruby?
+#Introduction: What is Ruby?
 
 Ruby is a dynamic and open source programming language created by **Yukihiro Matsumoto** in 1995.
 The main objective is making life of programmers easier and enjoyable.

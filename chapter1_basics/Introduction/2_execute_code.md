@@ -1,13 +1,12 @@
-#Introduction: Setup
-##Execute Ruby Scripts
+#Introduction: Execute Ruby Code
 
 There are two options to execute Ruby code:
 
-1. Create new file with Ruby extension (.rb) and then execute it from terminal. 
+1. Create new file with Ruby extension (.rb) and then execute it from terminal.
 2. Create new REPL session to write and execute each instructions.
 
 We're going to see both ways in this tutorial.
- 
+
 ###Option 1: Create a Ruby file and execute it from terminal.
 
 1. Create a new file from the Bash terminal.
@@ -40,7 +39,7 @@ But also you can create a [**REPL**](https://en.wikipedia.org/wiki/Read%E2%80%93
 	```Bash
 	$ irb
 	```
-	
+
 2. Now you can write code line-by-line
 
 	```Bash
