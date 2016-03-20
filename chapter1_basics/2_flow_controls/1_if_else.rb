@@ -1,3 +1,6 @@
+# See all information
+# and explained examples in 1_if_else.md
+
 a = 10
 b = 20
 c = 20
