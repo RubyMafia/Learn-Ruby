@@ -10,6 +10,7 @@ All the conditional blocks starts with if and finish with 'end' tag
 
 ```ruby
 a = 10
+
 if a == 10
 	print "a is 10!"
 end
@@ -18,11 +19,12 @@ end
 Also, there can be checked more clauses inside if
 
 ```ruby
-a = 20
-if a == 10
-	puts "a is 10!"
-elsif a == 20
-	puts "a is 20!!"
+b = 20
+
+if b == 10
+	puts "b is 10!"
+elsif b == 20
+	puts "b is 20!!"
 else
 	puts "I don't know what it is :("
 end
@@ -54,12 +56,13 @@ In ruby there is a short way to put if/then else clause
 
 ```ruby
 name = "Jorge"
+
 puts "You're Jorge" if name == "Jorge"
 ```
 
 One line cause condition
 
 ```ruby
-a = 20
-if a == 20 then puts "a is 20" else puts "a is not 20" end
+c = 20
+if c == 20 then puts "c is 20" else puts "c is not 20" end
 ```
